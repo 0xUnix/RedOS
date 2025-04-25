@@ -1,7 +1,7 @@
 # RedOS
 - [Софт RedOS](#soft_redos)
 - [Восстановление шрифта в терминале](#termfonts)
-- [ПО для образовательного процесса – redos-education](#educational software) 
+- [ПО для образовательного процесса – redos-education](#educational_software) 
   
 ## Софт RedOS <a name="soft_redos"></a>
 Софт для RedOS с крипто про,р7,шрифтами
@@ -10,7 +10,7 @@ https://disk.yandex.ru/d/F0HvpK_zDAsSsA
 ## Восстановление шрифта в терминале<a name="termfonts"></a>  
 `fc-cache -frv`  
 
-##ПО для образовательного процесса – redos-education<a name="educational software"></a>
+##ПО для образовательного процесса – redos-education<a name="educational_software"></a>
 Установка утилиты
 Для установки программы через терминал перейдите в сеанс пользователя root:
 `su`
