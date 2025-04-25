@@ -10,7 +10,7 @@ https://disk.yandex.ru/d/F0HvpK_zDAsSsA
 ## Восстановление шрифта в терминале<a name="termfonts"></a>  
 `fc-cache -frv`  
 
-##ПО для образовательного процесса – redos-education<a name="educational_software"></a>
+## ПО для образовательного процесса – redos-education<a name="educational_software"></a> 
 Установка утилиты
 Для установки программы через терминал перейдите в сеанс пользователя root:
 `su`
